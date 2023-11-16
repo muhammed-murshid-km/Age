@@ -26,6 +26,7 @@ body {
     height: 300px;
     background-color: rgb(254, 47, 178);
     border-radius: 20px;
+      position: fixed;
 }
 
 .h {
